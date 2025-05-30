@@ -17,5 +17,6 @@ perfect for beginners to explore, learn, and get inspired.
 ## 🚀 How to Run
 
 1. **Clone this repository**
-   ```bash    git clone https://github.com/Farhansaiyed315/Static-projects.git
+   ```bash
+   git clone https://github.com/Farhansaiyed315/Static-projects.git
 
