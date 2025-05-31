@@ -12,7 +12,8 @@ perfect for beginners to explore, learn, and get inspired.
 - 🤝 Help others learn frontend development
 
 > Whether you're a student, self-learner, or someone just starting out, feel free to clone, fork, or star this repo!
-
+project links :
+1. Counter Aap is live at : https://farhansaiyed315.github.io/Static-projects/
 
 ## 🚀 How to Run
 
