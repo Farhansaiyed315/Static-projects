@@ -14,7 +14,12 @@ perfect for beginners to explore, learn, and get inspired.
 > Whether you're a student, self-learner, or someone just starting out, feel free to clone, fork, or star this repo!
 
 
-project links : Cunter-app -  https://legendary-phoenix-834dfb.netlify.app/
+
+| project | LInks                                                |
+|----------|--------------------------------------------------------------|
+| Counter-app| https://counter-app315.netlify.app/  |
+| Digital clock | https://digital-clock315.netlify.app/    |
+| BMI-Calculator|https://bmi-clculator315.netlify.app/ |
 
 
 ## 🚀 How to Run
