@@ -11,11 +11,14 @@ perfect for beginners to explore, learn, and get inspired.
 - 🧠 Understand project structure and DOM usage
 - 🤝 Help others learn frontend development
 
-> Whether you're a student, self-learner, or someone just starting out, feel free to clone, fork, or star this repo!
 
-
-project links : Cunter-app -  https://legendary-phoenix-834dfb.netlify.app/
-
+| project | LInks                                                |
+|----------|--------------------------------------------------------------|
+| Counter-app| https://counter-app315.netlify.app/  |
+| Digital clock | https://digital-clock315.netlify.app/    |
+| BMI-Calculator|https://bmi-clculator315.netlify.app/ |
+| Color Flipper | https://color-flipper315.netlify.app/ |
+| Age-calculator | https://age-calculator315.netlify.app/|
 
 ## 🚀 How to Run
 
