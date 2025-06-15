@@ -21,6 +21,7 @@ perfect for beginners to explore, learn, and get inspired.
 | Age-calculator | https://age-calculator315.netlify.app/|
 | Tip-calculator| https://tip-calculator315.netlify.app/|
 | Simple-interest-calculator | https://simple-interest-calculator315.netlify.app/|
+| Loan-Emi-Calculator| https://loanemicalculator315.netlify.app/|
 ## 🚀 How to Run
 
 1. **Clone this repository**
