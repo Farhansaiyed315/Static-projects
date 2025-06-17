@@ -23,6 +23,7 @@ perfect for beginners to explore, learn, and get inspired.
 | Simple-interest-calculator | https://simple-interest-calculator315.netlify.app/|
 | Loan-Emi-Calculator| https://loanemicalculator315.netlify.app/|
 | Temprature-Converter| https://tempratue-converter315.netlify.app/ |
+| Number-Guessing-Game | https://number-guessing-game315.netlify.app/ |
 ## 🚀 How to Run
 
 1. **Clone this repository**
