@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Area Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Area Calculator</h1>
+
+    <label for="shape">Select Shape:</label>
+    <select id="shape" onchange="updateInputs()">
+      <option value="circle">Circle</option>
+      <option value="square">Square</option>
+      <option value="rectangle">Rectangle</option>
+    </select>
+
+    <div id="inputs">
+      <!-- Inputs will change based on selected shape -->
+    </div>
+
+    <button onclick="calculateArea()">Calculate Area</button>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
