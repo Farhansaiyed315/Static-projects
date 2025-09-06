@@ -243,4 +243,60 @@ body {
     margin-top: 5rem;
 }
 
+.contact { 
+  padding: 5rem 0;
+  background-color: #f8f9fa;
+}
 
+.contact-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+}
+
+.contact-info h3 , .contact-form h3  {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+
+}
+
+.contact-item {
+    margin-bottom: 1rem;
+}
+
+.contact-item strong {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+}
+
+.form-group{
+    margin-bottom: 1.5rem;
+
+}
+
+.form-group label{
+    display: block;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+
+.form-group input , 
+.form-group select,
+.form-group textarea {
+     width: 100%;
+     padding: 0.5rem;
+     border: 2px solid #ddd;
+     border-radius: 10px;
+     font-size: 1rem;
+     transition: border-color 0.3s ease;
+}
+
+.form-group input:focus, 
+.form-group select:focus,
+.form-group textarea:focus{
+    outline: none;
+    border-color: #e74c3c;
+}
